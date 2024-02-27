@@ -1,0 +1,11 @@
+
+.container_main{
+  display: flex;
+}
+
+.article_main{
+  width: 400px;
+  display: flex;
+  text-align: center;
+  margin: 0px 20px
+}

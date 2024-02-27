@@ -1,0 +1,14 @@
+.container_big-card{
+  height: 500px;
+}
+.big-card_title > h2 > a{
+  text-decoration: none;
+}
+.big-card_description > p > a{
+  color: #828282;
+  text-decoration: none;
+  margin-top: 10px;
+}
+.big-card_photo > img{
+  width: 100%;
+}

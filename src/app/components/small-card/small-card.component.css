@@ -1,0 +1,17 @@
+.container_small-card{
+  border-bottom: solid 2px white;
+  width: 100%;
+  margin: 15px 10px;
+  display: flex;
+}
+.small-card_photo > img{
+  width: 100%;
+  height: 150px;
+}
+.small-card_text{
+  margin-left: 10px;
+}
+.small-card_description{
+  display: flex;
+}
+
